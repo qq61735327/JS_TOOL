@@ -133,7 +133,7 @@ QQ群：967451175
 
 2021-01-23，控制面板增加日志查看功能，Docker重启容器后可以使用`docker restart jd`，非Docker如果是pm2方式的请重启pm2进程`pm2 resatrt server.js`。
 
-2020-01-21，增加shylocks/Loon脚本。
+2020-01-21，增加shylocks/Loon脚本。 
 
 2021-01-15，如果本机上安装了pm2，则挂机程序以pm2启动，否则以nohup启动。
 </details>
